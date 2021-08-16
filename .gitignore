@@ -7,3 +7,5 @@ vendor/
 *.iml
 
 go.sum
+
+dist/
